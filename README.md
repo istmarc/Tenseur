@@ -1,6 +1,4 @@
-[![docs](https://readthedocs.org/projects/tenseur/badge/?version=latest)](https://tenseur.readthedocs.io/en/latest/index.html)
-
-[Doxygen docs](https://istmarc.github.io/documentation/tenseur/)
+> **Note**: The library is no longer under development, its being redisigned as the ten library available at [github/ten](https://github.com/istmarc/ten).
 
 # Tenseur
 
